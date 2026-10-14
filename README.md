@@ -1,0 +1,12 @@
+
+# Developer Akademie Projects (Oct 2021 – Feb 2022)
+
+
+| Project            | Description                                                      | Tech                                                 | Repo                                                                          | Live                                                                              |
+| -------------------- | ------------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| ring-of-fire       | Angular-based web app of the popular card game                   | Angular, Angular Material, CSS, SCSS, HTML, Firebase | [GitHub](https://github.com/DanielRolfs-DeveloperAkademie/ring-of-fire)       | [ring-of-fire](https://ring-of-fire.vercel.app)                                   |
+| synonym-finder     | Calls the OpenThesaurus API to show synonyms of the entered word | API, JavaScript, HTML, CSS                           | [GitHub](https://github.com/DanielRolfs-DeveloperAkademie/synonym-finder)     | [synonym-finder](https://danielrolfs-developerakademie.github.io/synonym-finder/) |
+| tic-tac-toe        | The classic game, played with a friend                           | JavaScript, HTML, CSS                                | [GitHub](https://github.com/DanielRolfs-DeveloperAkademie/tic-tac-toe)        | [tic-tac-toe](https://danielrolfs-developerakademie.github.io/tic-tac-toe/)       |
+| forro-quiz         | A quiz to test your knowledge                                    | JavaScript, HTML, CSS                                | [GitHub](https://github.com/DanielRolfs-DeveloperAkademie/forro-quiz)         | [forro-quiz](https://danielrolfs-developerakademie.github.io/forro-quiz/)         |
+| lieferando-replica | Design and shopping cart copy of Lieferando                      | JavaScript, HTML, CSS                                | [GitHub](https://github.com/DanielRolfs-DeveloperAkademie/lieferando-replica) | [Demo](https://danielrolfs-developerakademie.github.io/lieferando-replica/)       |
+| simple-crm         | Simple tool to list customers                                    | Angular, Firebase, HTML, CSS                         | [GitHub](https://github.com/DanielRolfs-DeveloperAkademie/simple-crm)         | [simple-crm](https://simple-crm.vercel.app)                                       |
